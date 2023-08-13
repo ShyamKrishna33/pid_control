@@ -1,0 +1,18 @@
+# EE3305/ME3243
+# Name: Arun Gandhi Shyam Krishna
+# Matric number: A0266505A
+
+
+Kp_f: 6
+Ki_f: 0.0099
+Kd_f: 1
+Kp_a: 1
+Ki_a: 0.02
+Kd_a: 1
+dt: 0.1
+target_distance: 1.5
+target_angle: 0
+pillar_x: 12.5
+pillar_y: 10
+
+# enter the rest of the variables (11 variables total)
